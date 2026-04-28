@@ -1,7 +1,10 @@
 # 👋 Olá, eu sou o Robson Silva Pereira
 
-🎯 **Analista de Suporte TI | Infraestrutura | Active Directory | Windows Server | PowerShell**
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)](https://learn.microsoft.com/en-us/windows-server/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blueviolet)](https://learn.microsoft.com/en-us/powershell/)
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-GPO-orange)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
 
+🎯 **Analista de Suporte TI | Infraestrutura | Active Directory | Windows Server | PowerShell**  
 📍 Caxambu, MG – com mudança planejada para Belo Horizonte
 
 ---
@@ -10,7 +13,7 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente dedico 100% do meu tempo a uma rotina intensiva de **homelab**: construo, quebro e conserto ambientes virtualizados todos os dias para dominar a prática de um Analista de Suporte N1/N2 e Infraestrutura Júnior.
 
-Minha maior habilidade não-técnica? **Inteligência emocional e comunicação com clareza** – fruto de anos lidando com o público em ambientes de alta pressão (IBGE, monitoria de tecnologia). Sei traduzir o "tecniquês" para o usuário final com empatia.
+Minha maior habilidade não-técnica? **Inteligência emocional e comunicação com clareza** – fruto de anos lidando com o público em ambientes de alta pressão (IBGE, monitoria de tecnologia). Sei traduzir o **tecniquês** para o usuário final com empatia.
 
 ---
 
@@ -29,9 +32,9 @@ Minha maior habilidade não-técnica? **Inteligência emocional e comunicação 
 
 ## 🧪 Meus projetos no GitHub (exemplos reais)
 
-Aqui você vai encontrar:
+Aqui você vai encontrar (em breve):
 
-- Scripts de **automação com PowerShell** (criação/remocão de usuários em AD, relatórios, etc.)
+- Scripts de **automação com PowerShell** (criação/remoção de usuários em AD, relatórios, etc.)
 - **Configurações de GPO** documentadas (bloqueio de acessos, personalização de ambiente)
 - Estrutura de **laboratório virtualizado** com Windows Server e Active Directory
 - Estudos de caso: *"Como quebrei e recuperei o AD no meu lab"*
