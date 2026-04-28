@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Robson Silva Pereira
+# Robson Silva Pereira
 
 [![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)](https://learn.microsoft.com/en-us/windows-server/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blueviolet)](https://learn.microsoft.com/en-us/powershell/)
